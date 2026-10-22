@@ -28,5 +28,23 @@ A V2 está em desenvolvimento: algumas telas contêm apenas a estrutura inicial.
 | 06/03/2026 | Inclusão do documento do exercício | [3fef98b](https://github.com/Yagog0/controle-pedidos-php/commit/3fef98b676620ef91aa2c9bf74b7cfc2df59e1b8) |
 | 10/03/2026 | Protótipo de interface com EasyUI | [c8f64a9](https://github.com/Yagog0/controle-pedidos-php/commit/c8f64a901caea8eac5681a80b1509cb7ed1ee4c3) |
 
+## Executar localmente
+
+```bash
+git clone https://github.com/Yagog0/controle-pedidos-php.git
+cd controle-pedidos-php
+php -S localhost:8000
+```
+
+Antes de abrir o CRUD, configure a conexão em `gere_pedidos_v1/conexao.php` e prepare o banco com as tabelas e campos usados pelo projeto. O servidor PHP também precisa do driver PDO correspondente ao banco.
+
+Acesse `http://localhost:8000/gere_pedidos_v1/gerenciar_pedidos.php`. A V1 depende desse banco configurado; iniciar apenas o servidor não conclui a instalação.
+
+## O que este projeto demonstra
+- Cadastro e edição de clientes, produtos e pedidos.
+- Relacionamento entre pedidos e seus itens.
+- Consultas com PDO, apresentação de dados e cálculo de totais.
+- Evolução de uma interface básica para um protótipo com EasyUI.
+
 ## Autor
 Desenvolvido por [Yago](https://github.com/Yagog0).
