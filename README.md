@@ -24,9 +24,9 @@ A V2 está em desenvolvimento: algumas telas contêm apenas a estrutura inicial.
 ## Evolução
 | Data | Entrega | Referência |
 | --- | --- | --- |
-| 06/03/2026 | Primeira versão do CRUD | [c60eb3e](https://github.com/Yagog0/php-crud-teste-energy-simple/commit/c60eb3e137ea1b7215785564197da77b95d39833) |
-| 06/03/2026 | Inclusão do documento do exercício | [3fef98b](https://github.com/Yagog0/php-crud-teste-energy-simple/commit/3fef98b676620ef91aa2c9bf74b7cfc2df59e1b8) |
-| 10/03/2026 | Protótipo de interface com EasyUI | [c8f64a9](https://github.com/Yagog0/php-crud-teste-energy-simple/commit/c8f64a901caea8eac5681a80b1509cb7ed1ee4c3) |
+| 06/03/2026 | Primeira versão do CRUD | [c60eb3e](https://github.com/Yagog0/controle-pedidos-php/commit/c60eb3e137ea1b7215785564197da77b95d39833) |
+| 06/03/2026 | Inclusão do documento do exercício | [3fef98b](https://github.com/Yagog0/controle-pedidos-php/commit/3fef98b676620ef91aa2c9bf74b7cfc2df59e1b8) |
+| 10/03/2026 | Protótipo de interface com EasyUI | [c8f64a9](https://github.com/Yagog0/controle-pedidos-php/commit/c8f64a901caea8eac5681a80b1509cb7ed1ee4c3) |
 
 ## Autor
 Desenvolvido por [Yago](https://github.com/Yagog0).
